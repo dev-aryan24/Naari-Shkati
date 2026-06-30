@@ -35,4 +35,4 @@ User interacts with the application interface
 System continuously monitors inputs (location / behavior / triggers)   
 AI model analyzes data for potential threats   
 If a threat is detected, an instant alert/SOS is triggered   
-Emergency contacts or authorities are notified with location details   
+Emergency contacts or authorities are notified with location details. 
